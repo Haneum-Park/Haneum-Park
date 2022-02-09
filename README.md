@@ -1,12 +1,13 @@
-<p dir="auto">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaneum-Park%2F&count_bg=%2379C83D&title_bg=%23555555&icon=hashnode.svg&icon_color=%23E7E7E7&title=HIT%21&edge_flat=false" style="max-width: 100%;">
+<p dir="auto">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaneum-Park%2F&count_bg=%2379C83D&title_bg=%23555555&icon=hashnode.svg&icon_color=%23E7E7E7&title=HIT%21&edge_flat=false" style="max-width: 100%;" />
 </p>
 
-
-<div align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Haneum-Park&theme=chalk&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+<div align="center" style="margin-bottom: 1rem;">
+  <img align src="https://github-profile-trophy.vercel.app/?username=Haneum-Park&theme=dark_lover&margin-w=15&margin-h=15&column=4" />
 </div>
 
+<br />
+<br />
 **Haneum-Park/Haneum-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
