@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 ## WAKA TIME STATUS
 
 <p float="left">
-<img src="https://wakatime.com/share/@haneum_park/1fe45aeb-c77a-44bc-8fdf-c5a3281ee0aa.svg" width="48%">
-<img src="https://wakatime.com/share/@haneum_park/47d033ff-6efa-4168-9689-f3b7167b8cf9.svg" width="48%">
+<img src="https://wakatime.com/share/@haneum_park/127387cb-d88f-49da-bf44-8631ca8b807f.svg" width="48%">
+<img src="https://wakatime.com/share/@haneum_park/19bd4d34-3b6f-440c-b650-ec2ae4fb2964.svg" width="48%">
 </p>
 
 ---
