@@ -1,11 +1,14 @@
-<p dir="auto">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaneum-Park%2F&count_bg=%2379C83D&title_bg=%23555555&icon=hashnode.svg&icon_color=%23E7E7E7&title=HIT%21&edge_flat=false" style="max-width: 100%;" />
-</p>
-
-<div align="center" style="margin-bottom: 1rem;">
-  <img align src="https://github-profile-trophy.vercel.app/?username=Haneum-Park&theme=dark_lover&margin-w=15&margin-h=15&column=4" />
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Haneum%20Pak&section=footer&reversal=true&fontSize=65&animation=fadeIn&fontAlignY=50&descAlignY=55&descAlign=63" />
+  <p>
+    <a href="https://wakatime.com/@23cd3dbc-7d45-4d04-a85b-3f891ec8c172">
+      <img src="https://wakatime.com/badge/user/23cd3dbc-7d45-4d04-a85b-3f891ec8c172.svg?style=flat-square" />
+    </a>
+    <a href="https://hitscounter.dev">
+      <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fp4r4d0xb0x&label=Hits%21&icon=github&color=%23198754&message=&style=flat&tz=UTC" />
+    </a>
+  </p>
 </div>
-
 <br />
 <br />
 **Haneum-Park/Haneum-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,8 +27,9 @@ Here are some ideas to get you started:
 ---
 ## GITHUB PUBLIC STATS & PUBLIC TOP LANGUAGES
 
-[![Haneum's github stats](https://github-readme-stats.vercel.app/api?username=Haneum-Park&locale=kr&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Haneum-Park의%20Public%20Repo%20통계)](https://github.com/Haneum-Park)
-[![Haneum'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haneum-Park&theme=dracula&hide=html,css&layout=compact&langs_count=7&custom_title=Public%20Repo%20Most%20Used%20Lang)](https://github.com/Haneum-Park)
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=haneum-park&theme=onestar&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=12&margin-h=12&column=5&no-bg=true&no-frame=true" />
+</div>
 
 ---
 ## WAKA TIME STATUS
