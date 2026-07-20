@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ---
 ## GITHUB PUBLIC STATS & PUBLIC TOP LANGUAGES
 
-[![Haneum's github stats](https://github-readme-stats.vercel.app/api?username=Haneum-Park&locale=kr&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Haneum-Park의%20Public%20Repo%20통계)](https://github.com/shellcodesniper)
-[![Haneum'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haneum-Park&theme=dracula&hide=html,css&layout=compact&langs_count=7&custom_title=Public%20Repo%20Most%20Used%20Lang)](https://github.com/shellcodesniper)
+[![Haneum's github stats](https://github-readme-stats.vercel.app/api?username=Haneum-Park&locale=kr&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Haneum-Park의%20Public%20Repo%20통계)](https://github.com/Haneum-Park)
+[![Haneum'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haneum-Park&theme=dracula&hide=html,css&layout=compact&langs_count=7&custom_title=Public%20Repo%20Most%20Used%20Lang)](https://github.com/Haneum-Park)
 
 ---
 ## WAKA TIME STATUS
